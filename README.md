@@ -14,10 +14,12 @@ Design patterns in Python
 
 Machine Learning Design Patterns
 
-Reach out to me via
-
 [Presentations](/presentations/)
 
 Find the presentations here
+
+## Contact
+
+Reach out to me via
 
 [LinkedIn](https://www.linkedin.com/in/vaskomartin/) or [GitHub](https://github.com/martinvasko)
