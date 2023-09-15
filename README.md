@@ -16,4 +16,8 @@ Machine Learning Design Patterns
 
 Reach out to me via
 
+[Presentations](/presentations/)
+
+Find the presentations here
+
 [LinkedIn](https://www.linkedin.com/in/vaskomartin/) or [GitHub](https://github.com/martinvasko)
